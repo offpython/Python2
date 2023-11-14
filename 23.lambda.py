@@ -22,3 +22,4 @@ circleValue = getCircleArea(radius)
 print(f'삼각형 넓이 : {triangleValue}')
 print(f'사각형 넓이 : {squareValue}')
 print(f'원 넓이 : {circleValue}')
+
